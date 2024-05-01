@@ -23,7 +23,7 @@ conda activate mla
 Then, install `mla` from the repository:
 
 ```bash
-git https://github.com/nii-yamagishilab-visitors/MLA-FEVEROUS.git
+git https://github.com/nii-yamagishilab/MLA-FEVEROUS-COLING24.git
 cd MLA-FEVEROUS
 pip install -r requirements.txt
 pip install feverous
