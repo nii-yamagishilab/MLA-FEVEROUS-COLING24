@@ -24,7 +24,7 @@ Then, install `mla` from the repository:
 
 ```bash
 git https://github.com/nii-yamagishilab/MLA-FEVEROUS-COLING24.git
-cd MLA-FEVEROUS
+cd MLA-FEVEROUS-COLING24
 pip install -r requirements.txt
 pip install feverous
 pip install einops
